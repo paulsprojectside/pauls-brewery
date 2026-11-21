@@ -1,7 +1,5 @@
 # pauls-brewery
-Introduction and explanation
-
-The way I work
+Introduction and explanation | My approach (as a non-dev-guy)
 
 Atomic principles: Minimal | Effective | Token-saving | Modular | Scalable | Longterm/agnostic
 
